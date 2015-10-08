@@ -8,6 +8,7 @@
 
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="http://maps.stamen.com/js/tile.stamen.js"></script> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" />
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
     <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
@@ -54,13 +55,33 @@
             bottom: 0;
         }
         
+        .legend {
+            line-height: 18px;
+            color: #555;
+        }
+        
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+        } 
+        
+        .legend .circle {
+            border-radius: 50%;
+            width: 10px;
+            height: 10px;
+            margin-top: 8px;
+        }
+        
     </style>
 </head>
 
 <body>
     <header>
 
-        <h1>Habitat for Humanity Homes DRAFT</h1>
+        <h1>Habitat for Humanity Homes</h1>
         
     </header>
 
@@ -83,19 +104,16 @@
         });
                
  
-    var tiles = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-});
+    var layer =new L.StamenTileLayer("toner-lite");
         
      
-    map.addLayer(tiles);      
+    map.addLayer(layer);      
         
        
     var habitatData = L.geoJson(address, {
         pointToLayer: function (feature, latlng) {
             return L.circleMarker (latlng, {
-                    width: 0.5,
+                    width: 0.2,
                     fillOpacity: 0.8
             });
         },
@@ -103,144 +121,149 @@
 //          console.log(layer.feature.properties["Year"]);        
             var year = layer.feature.properties["Year"];
         
+            if(year == "1988") {
+                layer.setStyle({
+                    color: '#023858'
+                });
+            }
             if(year == "1989") {
                 layer.setStyle({
-                    color: "red"
+                    color: '#023858'
                 });
             }
             if(year == "1990") {
                 layer.setStyle({
-                    color: "orange"
+                    color: '#045a8d'
                 });
             }
             if(year == "1991") {
                 layer.setStyle ({
-                    color: "green"
+                    color: '#045a8d'
                 });
             }
             if(year == "1992") {
                 layer.setStyle ({   
-                color: '#008066'
+                color: '#045a8d'
                 });
             }
             if(year == "1993") {
                 layer.setStyle ({
-                    color: '#FF0066'
+                    color: '#045a8d'
                 });
             }
             if(year == "1994") {
                 layer.setStyle ({
-                    color: '#3D003D'
+                    color: '#045a8d'
                 });
             }
             if(year == "1995") {
                 layer.setStyle ({
-                    color: '#4C4C33'
+                    color: '#045a8d'
                 });
             }
             if(year == "1995") {
                 layer.setStyle ({
-                    color: '#FFFF00'
+                    color: '#045a8d'
                 });
             }
             if(year == "1996") {
                 layer.setStyle ({
-                    color: '#0A1F0A'
+                    color: '#045a8d'
                 });
             }
             if(year == "1997") {
                 layer.setStyle ({
-                    color: '#001429'
+                    color: '#045a8d'
                 });
             }
             if(year == "1998") {
                 layer.setStyle ({
-                    color: '#B82E00'
+                    color: '#045a8d'
                 });
             }
             if(year == "1999") {
                 layer.setStyle ({
-                    color: '#996633'
+                    color: '#045a8d'
                 });
             }
             if(year == "2000") {
                 layer.setStyle ({
-                    color: '#99003D'
+                    color: '#0570b0'
                 });
             }
             if(year == "2001") {
                 layer.setStyle ({
-                    color: '#E68A5C'
+                    color: '#0570b0'
                 });
             }
             if(year == "2002") {
                 layer.setStyle ({
-                    color: '#7575FF'
+                    color: '#0570b0'
                 });
             }
             if(year == "2003") {
                 layer.setStyle ({
-                    color: '#993333'
+                    color: '#0570b0'
                 });
             }
             if(year == "2004") {
                 layer.setStyle ({
-                    color: '#000000'
+                    color: '#0570b0'
                 });
             }
             if(year == "2005") {
                 layer.setStyle ({
-                    color: '#996600'
+                    color: '#0570b0'
                 });
             }
             if(year == "2006") {
                 layer.setStyle ({
-                    color: '#FF99FF'
+                    color: '#0570b0'
                 });
             }
             if(year == "2007") {
                 layer.setStyle ({
-                    color: '#2E0F00'
+                    color: '#0570b0'
                 });
             }
             if(year == "2008") {
                 layer.setStyle ({
-                    color: '#99FF99'
+                    color: '#0570b0'
                 });
             }
             if(year == "2009") {
                 layer.setStyle ({
-                    color: '#333300'
+                    color: '#0570b0'
                 });
             }
             if(year == "2010") {
                 layer.setStyle ({
-                    color: '#00FF00'
+                    color: '#0570b0'
                 });
             }
             if(year == "2011") {
                 layer.setStyle ({
-                    color: '#FF9933'
+                    color: '#3690c0'
                 });
             }
             if(year == "2012") {
                 layer.setStyle ({
-                    color: '#4775D1'
+                    color: '#74a9cf'
                 });
             }
             if(year == "2013") {
                 layer.setStyle ({
-                    color: '#1A001A'
+                    color: '#a6bddb'
                 });
             }
             if(year == "2014") {
                 layer.setStyle ({
-                    color: '#803300'
+                    color: '#d0d1e6'
                 });
             }
             if(year == "2015") {
                 layer.setStyle ({
-                    color: '#194719'
+                    color: '#ece7f2'
                 });
             }
                 
@@ -251,11 +274,7 @@
         }
     }).addTo(map);
         
-       
-        
-        
-        
-       
+         
     </script>
     
 </body>

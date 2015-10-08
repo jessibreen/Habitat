@@ -1,0 +1,425 @@
+X,Y,Year,Number,Street,Address-fo,ADDRESS,City,State,addrtype,addrlocat
+-84.510902,38.05248,1988,222,Willard Street,222 Willard Street,222 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.5110547,38.0523051,1989,234,Willard Street,234 Willard Street,234 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.510984,38.0524426,1989,228,Willard Street,228 Willard Street,228 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.512293,38.0511709,1989,1005,Valley Avenue,1005 Valley Avenue,1005 Valley Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5121201,38.0524498,1989,241,Perry Street,241 Perry Street,241 Perry Street,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.482231,38.047266,1990,510,Pemberton Avenue,510 Pemberton Avenue,510 Pemberton Avenue,Lexington,KY,street_address,ROOFTOP
+-84.50472,38.061499,1990,847,Whitney Avenue,847 Whitney Avenue,847 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.469332,38.040251,1990,961,Detroit Avenue,961 Detroit Avenue,961 Detroit Avenue,Lexington,KY,street_address,ROOFTOP
+-84.509685,38.0391369,1990,175,Montmullin Street,175 Montmullin Street,175 Montmullin Street,Lexington,KY,street_address,ROOFTOP
+-84.48445,38.046575,1991,425,Hawkins Avenue,425 Hawkins Avenue,425 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.512098,38.051165,1991,1001,Valley Avenue,1001 Valley Avenue,1001 Valley Avenue,Lexington,KY,street_address,ROOFTOP
+-84.483733,38.054252,1991,135,Alabama Avenue,135 Alabama Avenue,135 Alabama Avenue,Lexington,KY,street_address,ROOFTOP
+-84.490435,38.05394,1991,300,West 5th Street,300 West 5th Street,300 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.491263,38.053779,1991,450,Kenton Street,450 Kenton Street,450 Kenton Street,Lexington,KY,street_address,ROOFTOP
+-84.484339,38.046666,1991,427,Hawkins Avenue,427 Hawkins Avenue,427 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.490867,38.053675,1991,455,Campbell Street,455 Campbell Street,455 Campbell Street,Lexington,KY,street_address,ROOFTOP
+-84.483451,38.046375,1991,439,Race Street,439 Race Street,439 Race Street,Lexington,KY,street_address,ROOFTOP
+-84.483942,38.0463669,1991,429,Conley Street,429 Conley Street,429 Conley Street,Lexington,KY,street_address,ROOFTOP
+-84.484559,38.046513,1991,423,Hawkins Avenue,423 Hawkins Avenue,423 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.483803,38.046598,1991,438,Hawkins Avenue,438 Hawkins Avenue,438 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.490357,38.0442279,1991,330,Corral Street,330 Corral Street,330 Corral Street,Lexington,KY,street_address,ROOFTOP
+-84.48779,38.044595,1991,223,Eastern Avenue,223 Eastern Avenue,223 Eastern Avenue,Lexington,KY,street_address,ROOFTOP
+-84.511805,38.051915,1991,257,Willard Street,257 Willard Street,257 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.484396,38.046265,1991,416,Hawkins Avenue,416 Hawkins Avenue,416 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.483335,38.046942,1991,456,Hawkins Avenue,456 Hawkins Avenue,456 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.484136,38.04645,1991,428,Hawkins Avenue,428 Hawkins Avenue,428 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.490672,38.053879,1991,459,Campbell Street,459 Campbell Street,459 Campbell Street,Lexington,KY,street_address,ROOFTOP
+-84.490752,38.053764,1991,457,Campbell Street,457 Campbell Street,457 Campbell Street,Lexington,KY,street_address,ROOFTOP
+-84.487709,38.04465,1991,225,Eastern Avenue,225 Eastern Avenue,225 Eastern Avenue,Lexington,KY,street_address,ROOFTOP
+-84.475202,38.087438,1992,1725,Gerald Drive,1725 Gerald Drive,1725 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.509212,38.04842,1992,736,Pine Street,736 Pine Street,736 Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.502241,38.05985,1992,724,Charles Avenue,724 Charles Avenue,724 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.475572,38.0875119,1992,1737,Gerald Drive,1737 Gerald Drive,1737 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.475654,38.0880269,1992,1757,Gerald Drive,1757 Gerald Drive,1757 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.515129,38.051626,1992,1043,Jane Street,1043 Jane Street,1043 Jane Street,Lexington,KY,street_address,ROOFTOP
+-84.475603,38.088113,1992,1761,Gerald Drive,1761 Gerald Drive,1761 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.475738,38.0879369,1992,1753,Gerald Drive,1753 Gerald Drive,1753 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.475431,38.087499,1992,1733,Gerald Drive,1733 Gerald Drive,1733 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.475314,38.087475,1992,1729,Gerald Drive,1729 Gerald Drive,1729 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.489112,38.042879,1992,162,Eastern Avenue,162 Eastern Avenue,162 Eastern Avenue,Lexington,KY,street_address,ROOFTOP
+-84.475873,38.087661,1992,1745,Gerald Drive,1745 Gerald Drive,1745 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.48424,38.046753,1992,435,Hawkins Avenue,435 Hawkins Avenue,435 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.488997,38.043073,1992,400,Corral Street,400 Corral Street,400 Corral Street,Lexington,KY,street_address,ROOFTOP
+-84.475825,38.087819,1992,1749,Gerald Drive,1749 Gerald Drive,1749 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.475744,38.087558,1992,1741,Gerald Drive,1741 Gerald Drive,1741 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.484067,38.053792,1992,144,Alabama Avenue,144 Alabama Avenue,144 Alabama Avenue,Lexington,KY,street_address,ROOFTOP
+-84.475825,38.088427,1993,1765,Gerald Drive,1765 Gerald Drive,1765 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.5169118,38.0536382,1993,1143,Anderson Street,1143 Anderson Street,1143 Anderson Street,Lexington,KY,street_address,ROOFTOP
+-84.517042,38.053747,1993,1151,Anderson Street,1151 Anderson Street,1151 Anderson Street,Lexington,KY,street_address,ROOFTOP
+-84.474419,38.087174,1993,1709,Gerald Drive,1709 Gerald Drive,1709 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.484486,38.046126,1993,412,Hawkins Avenue,412 Hawkins Avenue,412 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.47509,38.087401,1993,1721,Gerald Drive,1721 Gerald Drive,1721 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.488317,38.043585,1993,406,East 2nd Street,406 East 2nd Street,406 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.474643,38.087249,1993,1713,Gerald Drive,1713 Gerald Drive,1713 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.505435,38.0612939,1993,856,Whitney Avenue,856 Whitney Avenue,856 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.507655,38.068365,1993,428,Price Road,428 Price Road,428 Price Road,Lexington,KY,street_address,ROOFTOP
+-84.475744,38.087558,1993,1741,Gerald Drive,1741 Gerald Drive,1741 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.485359,38.0436679,1993,257,Warnock Street,257 Warnock Street,257 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.474755,38.087287,1993,1715,Gerald Drive,1715 Gerald Drive,1715 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.510848,38.052551,1993,220,Willard Street,220 Willard Street,220 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.474531,38.087211,1993,1711,Gerald Drive,1711 Gerald Drive,1711 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.4829539,38.0535036,1993,171,Alabama Avenue,171 Alabama Avenue,171 Alabama Avenue,Lexington,KY,street_address,ROOFTOP
+-84.474866,38.087325,1993,1717,Gerald Drive,1717 Gerald Drive,1717 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.4749779,38.087363,1993,1719,Gerald Drive,1719 Gerald Drive,1719 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.484126,38.0468059,1993,439,Hawkins Avenue,439 Hawkins Avenue,439 Hawkins Avenue,Lexington,KY,street_address,ROOFTOP
+-84.517403,38.053392,1993,1156,Anderson Street,1156 Anderson Street,1156 Anderson Street,Lexington,KY,street_address,ROOFTOP
+-84.507581,38.046403,1994,518,Patterson Street,518 Patterson Street,518 Patterson Street,Lexington,KY,street_address,ROOFTOP
+-84.508321,38.047179,1994,520,Merino Street,520 Merino Street,520 Merino Street,Lexington,KY,street_address,ROOFTOP
+-84.486426,38.042913,1994,215,Warnock Street,215 Warnock Street,215 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.4744,38.088804,1994,1796,Gerald Drive,1796 Gerald Drive,1796 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.493046,38.057569,1994,522,Willy Street,522 Willy Street,522 Willy Street,Lexington,KY,street_address,ROOFTOP
+-84.517291,38.053371,1994,1154,Anderson Street,1154 Anderson Street,1154 Anderson Street,Lexington,KY,street_address,ROOFTOP
+-84.476842,38.094721,1994,2069,Tammy Court,2069 Tammy Court,2069 Tammy Court,Lexington,KY,street_address,ROOFTOP
+-84.477125,38.09455,1994,2065,Tammy Court,2065 Tammy Court,2065 Tammy Court,Lexington,KY,street_address,ROOFTOP
+-84.48779,38.044595,1994,223,Eastern Avenue,223 Eastern Avenue,223 Eastern Avenue,Lexington,KY,street_address,ROOFTOP
+-84.484189,38.046188,1994,430,Conley Street,430 Conley Street,430 Conley Street,Lexington,KY,street_address,ROOFTOP
+-84.47509,38.087401,1994,1721,Gerald Drive,1721 Gerald Drive,1721 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.482991,38.046698,1994,459,Race Street,459 Race Street,459 Race Street,Lexington,KY,street_address,ROOFTOP
+-84.473423,38.088215,1994,1716,Mikan Court,1716 Mikan Court,1716 Mikan Court,Lexington,KY,street_address,ROOFTOP
+-84.49339,38.057181,1994,519,West 5th Street,519 West 5th Street,519 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.493534,38.057313,1994,525,W. 5th Street,525 W. 5th Street,525 W. 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.493318,38.057119,1994,517,West 5th Street,517 West 5th Street,517 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.5070645,38.0462468,1994,511,Dunaway Street,511 Dunaway Street,511 Dunaway Street,Lexington,KY,street_address,ROOFTOP
+-84.5071683,38.0461959,1994,515,Dunaway Street,515 Dunaway Street,515 Dunaway Street,Lexington,KY,street_address,ROOFTOP
+-84.474227,38.088702,1994,1156,Winburn Drive,1156 Winburn Drive,1156 Winburn Drive,Lexington,KY,street_address,ROOFTOP
+-84.497249,38.042086,1995,111,Hagerman Court,111 Hagerman Court,111 Hagerman Court,Lexington,KY,street_address,ROOFTOP
+-84.474732,38.093552,1995,1209,Harris Court,1209 Harris Court,1209 Harris Court,Lexington,KY,street_address,ROOFTOP
+-84.4955176,38.056382,1995,417,Smith Street,417 Smith Street,417 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.4910359,38.043843,1995,324,Wilson Street,324 Wilson Street,324 Wilson Street,Lexington,KY,street_address,ROOFTOP
+-84.475421,38.089208,1995,1128,Winburn Drive,1128 Winburn Drive,1128 Winburn Drive,Lexington,KY,street_address,ROOFTOP
+-84.483942,38.0463669,1995,429,Conley Street,429 Conley Street,429 Conley Street,Lexington,KY,street_address,ROOFTOP
+-84.5012858,38.0630832,1996,520,Michigan Street,520 Michigan Street,520 Michigan Street,Lexington,KY,street_address,ROOFTOP
+-84.484526,38.057159,1996,734,Florida Street,734 Florida Street,734 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.481738,38.0539569,1996,178,Eddie Street,178 Eddie Street,178 Eddie Street,Lexington,KY,street_address,ROOFTOP
+-84.489322,38.042699,1996,156,Eastern Avenue,156 Eastern Avenue,156 Eastern Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5025,38.06009,1996,734,Charles Avenue,734 Charles Avenue,734 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.4954334,38.0564438,1996,423,Smith Street,423 Smith Street,423 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.5057008,38.0683301,1996,439,Roosevelt Boulevard,439 Roosevelt Boulevard,439 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.511758,38.051305,1996,272,Willard Street,272 Willard Street,272 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.504442,38.061816,1996,844,Charles Avenue,844 Charles Avenue,844 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.502414,38.060006,1996,730,Charles Avenue,730 Charles Avenue,730 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.500322,38.0630809,1996,543,Newtown Pike,543 Newtown Pike,543 Newtown Pike,Lexington,KY,street_address,ROOFTOP
+-84.493535,38.056725,1996,512,West 5th Street,512 West 5th Street,512 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.488163,38.043447,1996,412,East 2nd Street,412 East 2nd Street,412 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.501974,38.061703,1996,455,Georgetown Street,455 Georgetown Street,455 Georgetown Street,Lexington,KY,street_address,ROOFTOP
+-84.490962,38.043776,1997,326,Wilson Street,326 Wilson Street,326 Wilson Street,Lexington,KY,street_address,ROOFTOP
+-84.481242,38.047775,1997,540,Pemberton Avenue,540 Pemberton Avenue,540 Pemberton Avenue,Lexington,KY,street_address,ROOFTOP
+-84.507113,38.0465639,1997,530,W. Pine Street,530 W. Pine Street,530 W. Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.507368,38.065155,1997,413,Douglas Avenue,413 Douglas Avenue,413 Douglas Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5051103,38.0688,1997,458,Bradley Court,458 Bradley Court,458 Bradley Court,Lexington,KY,street_address,ROOFTOP
+-84.50194,38.061599,1997,451,Georgetown Street,451 Georgetown Street,451 Georgetown Street,Lexington,KY,street_address,ROOFTOP
+-84.4854768,38.0436195,1997,255,Warnock Street,255 Warnock Street,255 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.5071789,38.046679,1997,536,West Pine Street,536 West Pine Street,536 West Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.485359,38.0436679,1997,257,Warnock Street,257 Warnock Street,257 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.48444,38.057219,1998,736,Florida Street,736 Florida Street,736 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.506454,38.063811,1998,380,Glen Arvin Avenue,380 Glen Arvin Avenue,380 Glen Arvin Avenue,Lexington,KY,street_address,ROOFTOP
+-84.50626,38.063383,1998,319,Ash Street,319 Ash Street,319 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.505247,38.0611249,1998,852,Whitney Avenue,852 Whitney Avenue,852 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5067436,38.0667203,1998,737,Florence Avenue,737 Florence Avenue,737 Florence Avenue,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.502934,38.059044,1998,714,Whitney Avenue,714 Whitney Avenue,714 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5289559,38.040064,1998,718,Golfview Drive,718 Golfview Drive,718 Golfview Drive,Lexington,KY,street_address,ROOFTOP
+-84.475272,38.089136,1998,1132,Winburn Drive,1132 Winburn Drive,1132 Winburn Drive,Lexington,KY,street_address,ROOFTOP
+-84.4941939,38.056712,1998,454,Smith Street,454 Smith Street,454 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.502835,38.058943,1998,712,Whitney Avenue,712 Whitney Avenue,712 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.472956,38.088501,1998,1193,Winburn Drive,1193 Winburn Drive,1193 Winburn Drive,Lexington,KY,street_address,ROOFTOP
+-84.5065096,38.0461018,1998,508,Pine Street,508 Pine Street,508 Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.494733,38.057419,1998,460,Jefferson Street,460 Jefferson Street,460 Jefferson Street,Lexington,KY,street_address,ROOFTOP
+-84.504024,38.060868,1999,807,Whitney Street,807 Whitney Street,807 Whitney Street,Lexington,KY,street_address,ROOFTOP
+-84.4849799,38.058376,1999,753,Dakota Street,753 Dakota Street,753 Dakota Street,Lexington,KY,street_address,ROOFTOP
+-84.529105,38.040133,1999,720,Golfview Drive,720 Golfview Drive,720 Golfview Drive,Lexington,KY,street_address,ROOFTOP
+-84.489763,38.044794,1999,328,East 2nd Street,328 East 2nd Street,328 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.5060712,38.0681717,1999,429,Roosevelt Boulevard,429 Roosevelt Boulevard,429 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.4932168,38.056947,1999,509,West 5th Street,509 West 5th Street,509 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.4931026,38.0568382,1999,503,West 5th Street,503 West 5th Street,503 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.48551,38.0431219,1999,238,Warnock Street,238 Warnock Street,238 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.472861,38.088373,1999,1195,Winburn Drive,1195 Winburn Drive,1195 Winburn Drive,Lexington,KY,street_address,ROOFTOP
+-84.489849,38.04487,1999,322,East 2nd Street,322 East 2nd Street,322 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.515821,38.052299,1999,421,Robertson Street,421 Robertson Street,421 Robertson Street,Lexington,KY,street_address,ROOFTOP
+-84.507073,38.068096,1999,788,Florence Avenue,788 Florence Avenue,788 Florence Avenue,Lexington,KY,street_address,ROOFTOP
+-84.485575,38.04303,1999,236,Warnock Street,236 Warnock Street,236 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.509566,38.04873,2000,752,Pine Street,752 Pine Street,752 Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.483794,38.0485929,2000,307,East 5th Street,307 East 5th Street,307 East 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.512856,38.051192,2000,1019,Valley Avenue,1019 Valley Avenue,1019 Valley Avenue,Lexington,KY,street_address,ROOFTOP
+-84.508342,38.065826,2000,731,Chiles Avenue,731 Chiles Avenue,731 Chiles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.512697,38.051186,2000,1013,Valley Avenue,1013 Valley Avenue,1013 Valley Avenue,Lexington,KY,street_address,ROOFTOP
+-84.494682,38.056393,2000,436,Smith Street,436 Smith Street,436 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.5057008,38.0683301,2000,439,Roosevelt Boulevard,439 Roosevelt Boulevard,439 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.49499,38.05617,2000,424,Smith Street,424 Smith Street,424 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.495067,38.056115,2000,420,Smith Street,420 Smith Street,420 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.473666,38.089545,2000,1816,Gerald Drive,1816 Gerald Drive,1816 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.505776,38.067931,2000,436,Roosevelt Boulevard,436 Roosevelt Boulevard,436 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.488078,38.043369,2000,414,East 2nd Street,414 East 2nd Street,414 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.473746,38.0894369,2000,1812,Gerald Drive,1812 Gerald Drive,1812 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.507878,38.0654488,2000,715,Chiles Avenue,715 Chiles Avenue,715 Chiles Avenue,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.508264,38.0657039,2000,727,Chiles Avenue,727 Chiles Avenue,727 Chiles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.485216,38.04301,2000,243,Ann Street,243 Ann Street,243 Ann Street,Lexington,KY,street_address,ROOFTOP
+-84.5056744,38.0679751,2000,438,Roosevelt Boulevard,438 Roosevelt Boulevard,438 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.4838758,38.0571958,2000,747,North Upper,747 North Upper,747 North Upper,Lexington,KY,street_address,ROOFTOP
+-84.5075419,38.047518,2000,621,Pine Street,621 Pine Street,621 Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.457862,38.039516,2000,144,Brown Avenue,144 Brown Avenue,144 Brown Avenue,Lexington,KY,street_address,ROOFTOP
+-84.4882256,38.0446103,2001,121,Ford Place,121 Ford Place,121 Ford Place,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.5050414,38.0686015,2001,453,Roosevelt Boulevard,453 Roosevelt Boulevard,453 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.5053684,38.0673839,2001,377,Roosevelt Boulevard,377 Roosevelt Boulevard,377 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.485763,38.04843,2001,428,Elm Tree Lane,428 Elm Tree Lane,428 Elm Tree Lane,Lexington,KY,street_address,ROOFTOP
+-84.4972175,38.0635045,2001,285,East Loudon,285 East Loudon,285 East Loudon,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.484854,38.045428,2001,438,East 4th Street,438 East 4th Street,438 East 4th Street,Lexington,KY,street_address,ROOFTOP
+-84.48921,38.04278,2001,160,Eastern Avenue,160 Eastern Avenue,160 Eastern Avenue,Lexington,KY,street_address,ROOFTOP
+-84.477255,38.089642,2001,1004,Pennebaker Drive,1004 Pennebaker Drive,1004 Pennebaker Drive,Lexington,KY,street_address,ROOFTOP
+-84.517403,38.053392,2001,1156,Anderson Street,1156 Anderson Street,1156 Anderson Street,Lexington,KY,street_address,ROOFTOP
+-84.482501,38.0494709,2001,554,Ohio Street,554 Ohio Street,554 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.470662,38.0901039,2001,1892,McCullough Drive,1892 McCullough Drive,1892 McCullough Drive,Lexington,KY,street_address,ROOFTOP
+-84.491138,38.053866,2001,454,Kenton Street,454 Kenton Street,454 Kenton Street,Lexington,KY,street_address,ROOFTOP
+-84.503602,38.060391,2001,767,Whitney Avenue,767 Whitney Avenue,767 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.470901,38.089881,2001,1884,McCullough Drive,1884 McCullough Drive,1884 McCullough Drive,Lexington,KY,street_address,ROOFTOP
+-84.475584,38.052523,2001,289,East Loudon,289 East Loudon,289 East Loudon,Lexington,KY,street_address,ROOFTOP
+-84.471902,38.090258,2001,1901,Gerald Drive,1901 Gerald Drive,1901 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.505028,38.0609279,2001,840,Whitney Avenue,840 Whitney Avenue,840 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.474868,38.058138,2001,212,Devonia Avenue,212 Devonia Avenue,212 Devonia Avenue,Lexington,KY,street_address,ROOFTOP
+-84.470791,38.089988,2001,1888,McCullough Drive,1888 McCullough Drive,1888 McCullough Drive,Lexington,KY,street_address,ROOFTOP
+-84.485578,38.0569739,2002,709,Florida Street,709 Florida Street,709 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.489934,38.04445,2002,333,Corral Street,333 Corral Street,333 Corral Street,Lexington,KY,street_address,ROOFTOP
+-84.4938729,38.057626,2002,541,West 5th Street,541 West 5th Street,541 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.48334,38.047467,2002,412,East 5th Street,412 East 5th Street,412 East 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.488911,38.043535,2002,377,Corral Street,377 Corral Street,377 Corral Street,Lexington,KY,street_address,ROOFTOP
+-84.484562,38.0518829,2002,200,East 6th Street,200 East 6th Street,200 East 6th Street,Lexington,KY,street_address,ROOFTOP
+-84.47179,38.090172,2002,1905,Gerald Drive,1905 Gerald Drive,1905 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.503327,38.063469,2002,445,Michigan Street,445 Michigan Street,445 Michigan Street,Lexington,KY,street_address,ROOFTOP
+-84.4717157,38.0899934,2002,1877,McCullough Drive,1877 McCullough Drive,1877 McCullough Drive,Lexington,KY,street_address,ROOFTOP
+-84.486682,38.042687,2002,527,East 2nd Street,527 East 2nd Street,527 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.484227,38.053931,2002,134,Alabama Avenue,134 Alabama Avenue,134 Alabama Avenue,Lexington,KY,street_address,ROOFTOP
+-84.486015,38.055114,2002,636,North Upper,636 North Upper,636 North Upper,Lexington,KY,street_address,ROOFTOP
+-84.486234,38.046755,2002,366,Ohio Street,366 Ohio Street,366 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.4581316,38.0413769,2002,110,Ashton Drive,110 Ashton Drive,110 Ashton Drive,Lexington,KY,street_address,ROOFTOP
+-84.50503,38.062017,2002,314,Michigan Street,314 Michigan Street,314 Michigan Street,Lexington,KY,street_address,ROOFTOP
+-84.4715529,38.0901408,2002,1881,McCullough Drive,1881 McCullough Drive,1881 McCullough Drive,Lexington,KY,street_address,ROOFTOP
+-84.458279,38.041421,2002,108,Ashton Drive,108 Ashton Drive,108 Ashton Drive,Lexington,KY,street_address,ROOFTOP
+-84.504826,38.060747,2002,822,Whitney Avenue,822 Whitney Avenue,822 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.503931,38.061356,2002,824,Charles Avenue,824 Charles Avenue,824 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.504955,38.069829,2003,469,Greenwood Avenue,469 Greenwood Avenue,469 Greenwood Avenue,Lexington,KY,street_address,ROOFTOP
+-84.486078,38.045777,2003,348,Chestnut Street,348 Chestnut Street,348 Chestnut Street,Lexington,KY,street_address,ROOFTOP
+-84.4881149,38.053011,2003,519,North Limestone,519 North Limestone,519 North Limestone,Lexington,KY,street_address,ROOFTOP
+-84.504643,38.0605819,2003,814,Whitney Avenue,814 Whitney Avenue,814 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.475431,38.087499,2003,1733,Gerald Drive,1733 Gerald Drive,1733 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.47477,38.0878299,2003,1720,Gerald Drive,1720 Gerald Drive,1720 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.515683,38.032031,2003,115,American Avenue,115 American Avenue,115 American Avenue,Lexington,KY,street_address,ROOFTOP
+-84.469672,38.048603,2003,809,Meadow Lane,809 Meadow Lane,809 Meadow Lane,Lexington,KY,street_address,ROOFTOP
+-84.494759,38.056337,2003,432,Smith Street,432 Smith Street,432 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.483585,38.05451,2003,130,East 7th Street,130 East 7th Street,130 East 7th Street,Lexington,KY,street_address,ROOFTOP
+-84.509291,38.048499,2003,740,Pine Street,740 Pine Street,740 Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.48546,38.057056,2003,711,Florida Street,711 Florida Street,711 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.4757149,38.047488,2003,640,Jackson Street,640 Jackson Street,640 Jackson Street,Lexington,KY,street_address,ROOFTOP
+-84.481082,38.051188,2003,647,Ohio Street,647 Ohio Street,647 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.5046459,38.065277,2003,441,Glen Arvin Avenue,441 Glen Arvin Avenue,441 Glen Arvin Avenue,Lexington,KY,street_address,ROOFTOP
+-84.485516,38.0468199,2003,407,Chestnut Street,407 Chestnut Street,407 Chestnut Street,Lexington,KY,street_address,ROOFTOP
+-84.478031,38.048972,2003,501,Breckenridge,501 Breckenridge,501 Breckenridge,Lexington,KY,street_address,ROOFTOP
+-84.477866,38.049112,2003,660,Shropshire,660 Shropshire,660 Shropshire,Lexington,KY,street_address,ROOFTOP
+-84.46955,38.048703,2003,813,Meadow Lane,813 Meadow Lane,813 Meadow Lane,Lexington,KY,street_address,ROOFTOP
+-84.509125,38.048336,2004,732,Pine Street,732 Pine Street,732 Pine Street,Lexington,KY,street_address,ROOFTOP
+-84.483842,38.053593,2004,152,Alabama Avenue,152 Alabama Avenue,152 Alabama Avenue,Lexington,KY,street_address,ROOFTOP
+-84.503134,38.059223,2004,722,Whitney Avenue,722 Whitney Avenue,722 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.484924,38.047727,2004,440,Ohio Street,440 Ohio Street,440 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.4814194,38.0540039,2004,187,Eddie Street,187 Eddie Street,187 Eddie Street,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.47623,38.047906,2004,641,Jackson Street,641 Jackson Street,641 Jackson Street,Lexington,KY,street_address,ROOFTOP
+-84.4893759,38.043952,2004,357,Corral Street,357 Corral Street,357 Corral Street,Lexington,KY,street_address,ROOFTOP
+-84.5049277,38.0675563,2004,361,Roosevelt Boulevard,361 Roosevelt Boulevard,361 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.504014,38.066628,2004,471,Douglas Avenue,471 Douglas Avenue,471 Douglas Avenue,Lexington,KY,street_address,ROOFTOP
+-84.473344,38.058986,2004,221,Carlisle Avenue,221 Carlisle Avenue,221 Carlisle Avenue,Lexington,KY,street_address,ROOFTOP
+-84.508702,38.06774,2004,404,Price Road,404 Price Road,404 Price Road,Lexington,KY,street_address,ROOFTOP
+-84.5148959,38.052056,2004,457,Speigle Street,457 Speigle Street,457 Speigle Street,Lexington,KY,street_address,ROOFTOP
+-84.484476,38.052499,2004,171,East 6th Street,171 East 6th Street,171 East 6th Street,Lexington,KY,street_address,ROOFTOP
+-84.508615,38.047614,2004,515,Merino Street,515 Merino Street,515 Merino Street,Lexington,KY,street_address,ROOFTOP
+-84.502477,38.059455,2004,715,Whitney Avenue,715 Whitney Avenue,715 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.508041,38.066883,2004,785,Breathitt Avenue,785 Breathitt Avenue,785 Breathitt Avenue,Lexington,KY,street_address,ROOFTOP
+-84.505774,38.0624449,2004,915,Whitney Avenue,915 Whitney Avenue,915 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.484011,38.057519,2004,754,Florida Street,754 Florida Street,754 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.502357,38.059129,2004,319,Hickory Street,319 Hickory Street,319 Hickory Street,Lexington,KY,street_address,ROOFTOP
+-84.502365,38.062891,2005,519,Georgetown Street,519 Georgetown Street,519 Georgetown Street,Lexington,KY,street_address,ROOFTOP
+-84.5034023,38.061592,2005,817,Charles Avenue,817 Charles Avenue,817 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.504801,38.069472,2005,466,Greenwood Avenue,466 Greenwood Avenue,466 Greenwood Avenue,Lexington,KY,street_address,ROOFTOP
+-84.504047,38.063768,2005,442,Ash Street,442 Ash Street,442 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.484696,38.05704,2005,726,Florida Street,726 Florida Street,726 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.484612,38.057099,2005,730,Florida Street,730 Florida Street,730 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.484269,38.057339,2005,744,Florida Street,744 Florida Street,744 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.476147,38.0467439,2005,618,Breckenridge,618 Breckenridge,618 Breckenridge,Lexington,KY,street_address,ROOFTOP
+-84.516536,38.031604,2005,1310,Camden Avenue,1310 Camden Avenue,1310 Camden Avenue,Lexington,KY,street_address,ROOFTOP
+-84.503882,38.059897,2005,754,Whitney Avenue,754 Whitney Avenue,754 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.478313,38.049182,2005,461,Breckenridge,461 Breckenridge,461 Breckenridge,Lexington,KY,street_address,ROOFTOP
+-84.4972175,38.0635045,2005,285,East Loudon,285 East Loudon,285 East Loudon,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.505213,38.062284,2005,323,Michigan Street,323 Michigan Street,323 Michigan Street,Lexington,KY,street_address,ROOFTOP
+-84.505579,38.063679,2005,403,Ash Street,403 Ash Street,403 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.486047,38.05327,2005,118,East 6th Street,118 East 6th Street,118 East 6th Street,Lexington,KY,street_address,ROOFTOP
+-84.507687,38.065619,2005,718,Chiles Avenue,718 Chiles Avenue,718 Chiles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.473394,38.059033,2005,219,Carlisle Avenue,219 Carlisle Avenue,219 Carlisle Avenue,Lexington,KY,street_address,ROOFTOP
+-84.493407,38.058408,2005,532,Jefferson Street,532 Jefferson Street,532 Jefferson Street,Lexington,KY,street_address,ROOFTOP
+-84.488317,38.043585,2005,406,East 2nd Street,406 East 2nd Street,406 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.50224,38.062516,2005,501,Georgetown Street,501 Georgetown Street,501 Georgetown Street,Lexington,KY,street_address,ROOFTOP
+-84.484074,38.051469,2005,216,East 6th Street,216 East 6th Street,216 East 6th Street,Lexington,KY,street_address,ROOFTOP
+-84.48634,38.054886,2005,618,North Upper,618 North Upper,618 North Upper,Lexington,KY,street_address,ROOFTOP
+-84.506125,38.063442,2005,321,Ash Street,321 Ash Street,321 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.4859139,38.053075,2006,126,East 6th Street,126 East 6th Street,126 East 6th Street,Lexington,KY,street_address,ROOFTOP
+-84.5093,38.038634,2006,158,Montmullin Street,158 Montmullin Street,158 Montmullin Street,Lexington,KY,street_address,ROOFTOP
+-84.4942,38.057332,2006,542,West 5th Street,542 West 5th Street,542 West 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.482388,38.05455,2006,152,Eddie Street,152 Eddie Street,152 Eddie Street,Lexington,KY,street_address,ROOFTOP
+-84.4846514,38.0453768,2006,345,Race Street,345 Race Street,345 Race Street,Lexington,KY,street_address,ROOFTOP
+-84.496835,38.05595,2006,360,Jefferson Street,360 Jefferson Street,360 Jefferson Street,Lexington,KY,street_address,ROOFTOP
+-84.4835219,38.048282,2006,321,East 5th Street,321 East 5th Street,321 East 5th Street,Lexington,KY,street_address,ROOFTOP
+-84.470034,38.040113,2006,954,Detroit Avenue,954 Detroit Avenue,954 Detroit Avenue,Lexington,KY,street_address,ROOFTOP
+-84.515683,38.032031,2006,115,American Avenue,115 American Avenue,115 American Avenue,Lexington,KY,street_address,ROOFTOP
+-84.505023,38.062412,2006,904,Charles Avenue,904 Charles Avenue,904 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.477437,38.062798,2006,120.5,Withers Avenue,121 Withers Avenue,121 Withers Avenue,Lexington,KY,street_address,ROOFTOP
+-84.504826,38.060747,2006,822,Whitney Avenue,822 Whitney Avenue,822 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.475283,38.060682,2006,125,Carlisle Avenue,125 Carlisle Avenue,125 Carlisle Avenue,Lexington,KY,street_address,ROOFTOP
+-84.4829759,38.054578,2006,141,East 7th Street,141 East 7th Street,141 East 7th Street,Lexington,KY,street_address,ROOFTOP
+-84.487456,38.054124,2006,558,North Upper,558 North Upper,558 North Upper,Lexington,KY,street_address,ROOFTOP
+-84.485129,38.057288,2006,723,Florida Street,723 Florida Street,723 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.502393,38.0629739,2006,523,Georgetown Street,523 Georgetown Street,523 Georgetown Street,Lexington,KY,street_address,ROOFTOP
+-84.485863,38.0530029,2006,130,East 6th Street,130 East 6th Street,130 East 6th Street,Lexington,KY,street_address,ROOFTOP
+-84.47477,38.0878299,2007,1720,Gerald Drive,1720 Gerald Drive,1720 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.514267,38.051856,2007,468,Speigle Street,468 Speigle Street,468 Speigle Street,Lexington,KY,street_address,ROOFTOP
+-84.471109,38.043949,2007,826,East 7th Street,826 East 7th Street,826 East 7th Street,Lexington,KY,street_address,ROOFTOP
+-84.503686,38.065054,2007,458,Glen Arvin Avenue,458 Glen Arvin Avenue,458 Glen Arvin Avenue,Lexington,KY,street_address,ROOFTOP
+-84.492518,38.0585359,2007,557,Smith Street,557 Smith Street,557 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.4882256,38.0446103,2007,121,Ford Place,121 Ford Place,121 Ford Place,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.487042,38.048881,2007,420,Silver Maple,420 Silver Maple,420 Silver Maple,Lexington,KY,street_address,ROOFTOP
+-84.468714,38.0591719,2007,1427,Bryan Avenue,1427 Bryan Avenue,1427 Bryan Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5131849,38.051797,2007,262,Driscoll Street,262 Driscoll Street,262 Driscoll Street,Lexington,KY,street_address,ROOFTOP
+-84.482507,38.0552599,2007,131,Eddie Street,131 Eddie Street,131 Eddie Street,Lexington,KY,street_address,ROOFTOP
+-84.504793,38.062207,2007,862,Charles Avenue,862 Charles Avenue,862 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.506675,38.063199,2007,305,Ash Street,305 Ash Street,305 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.505555,38.06216,2007,907,Whitney Avenue,907 Whitney Avenue,907 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.489077,38.044877,2007,337,East 2nd Street,337 East 2nd Street,337 East 2nd Street,Lexington,KY,street_address,ROOFTOP
+-84.485833,38.045951,2007,354,Chestnut Street,354 Chestnut Street,354 Chestnut Street,Lexington,KY,street_address,ROOFTOP
+-84.4864149,38.046636,2008,360,Ohio Street,360 Ohio Street,360 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.481343,38.04771,2008,536,Pemberton Avenue,536 Pemberton Avenue,536 Pemberton Avenue,Lexington,KY,street_address,ROOFTOP
+-84.505647,38.062326,2008,911,Whitney Avenue,911 Whitney Avenue,911 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.501299,38.056384,2008,557,Maryland,557 Maryland,557 Maryland,Lexington,KY,street_address,ROOFTOP
+-84.50381,38.065012,2008,456,Glen Arvin Avenue,456 Glen Arvin Avenue,456 Glen Arvin Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5065207,38.0679181,2008,419,Roosevelt Boulevard,419 Roosevelt Boulevard,419 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.503842,38.061283,2008,820,Charles Avenue,820 Charles Avenue,820 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.468607,38.05919,2008,1429,Bryan Avenue,1429 Bryan Avenue,1429 Bryan Avenue,Lexington,KY,street_address,ROOFTOP
+-84.50564,38.067667,2008,380,Roosevelt Boulevard,380 Roosevelt Boulevard,380 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.482089,38.090356,2008,1858,Balfour,1858 Balfour,1858 Balfour,Lexington,KY,street_address,ROOFTOP
+-84.481337,38.051017,2008,631,Ohio Street,631 Ohio Street,631 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.484183,38.0573989,2008,748,Florida Street,748 Florida Street,748 Florida Street,Lexington,KY,street_address,ROOFTOP
+-84.482569,38.090639,2008,1867,Balfour,1867 Balfour,1867 Balfour,Lexington,KY,street_address,ROOFTOP
+-84.504301,38.062546,2008,861,Charles Avenue,861 Charles Avenue,861 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.504292,38.0642319,2008,445,Ash Street,445 Ash Street,445 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.506051,38.062692,2008,931,Whitney Avenue,931 Whitney Avenue,931 Whitney Avenue,Lexington,KY,street_address,ROOFTOP
+-84.47411,38.058951,2008,208,Carlisle Avenue,208 Carlisle Avenue,208 Carlisle Avenue,Lexington,KY,street_address,ROOFTOP
+-84.483641,38.05342,2009,160,Alabama Avenue,160 Alabama Avenue,160 Alabama Avenue,Lexington,KY,street_address,ROOFTOP
+-84.483453,38.054991,2009,123,E. 7th St.,123 E. 7th St.,123 E. 7th St.,Lexington,KY,street_address,ROOFTOP
+-84.468511,38.059218,2009,1431,Bryan Avenue,1431 Bryan Avenue,1431 Bryan Avenue,Lexington,KY,street_address,ROOFTOP
+-84.503752,38.062779,2009,422,Michigan Street,422 Michigan Street,422 Michigan Street,Lexington,KY,street_address,ROOFTOP
+-84.477866,38.049112,2009,660,Shropshire Ave.,660 Shropshire Ave.,660 Shropshire Ave.,Lexington,KY,street_address,ROOFTOP
+-84.4695783,38.0626923,2009,118,Loneta Ave.,118 Loneta Ave.,118 Loneta Ave.,Lexington,KY,street_address,ROOFTOP
+-84.473741,38.058557,2009,224,Carlisle Avenue,224 Carlisle Avenue,224 Carlisle Avenue,Lexington,KY,street_address,ROOFTOP
+-84.505372,38.065422,2009,442,Douglas Avenue,442 Douglas Avenue,442 Douglas Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5049277,38.0675563,2009,361,Roosevelt Boulevard,361 Roosevelt Boulevard,361 Roosevelt Boulevard,Lexington,KY,street_address,ROOFTOP
+-84.458279,38.041421,2009,108,Ashton Drive,108 Ashton Drive,108 Ashton Drive,Lexington,KY,street_address,ROOFTOP
+-84.4697118,38.0628248,2009,116,Loneta Ave.,116 Loneta Ave.,116 Loneta Ave.,Lexington,KY,street_address,ROOFTOP
+-84.446898,38.016816,2009,408,Peachtree Rd.,408 Peachtree Rd.,408 Peachtree Rd.,Lexington,KY,street_address,ROOFTOP
+-84.483585,38.05451,2009,130,E. 7th St.,130 E. 7th St.,130 E. 7th St.,Lexington,KY,street_address,ROOFTOP
+-84.508287,38.066558,2009,748,Chiles Avenue,748 Chiles Avenue,748 Chiles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.502243,38.061152,2009,424,Oak St.,424 Oak St.,424 Oak St.,Lexington,KY,street_address,ROOFTOP
+-84.483367,38.052622,2009,630,N. Martin Luther King Blvd.,630 N. Martin Luther King Blvd.,630 N. Martin Luther King Blvd.,Lexington,KY,street_address,ROOFTOP
+-84.4698388,38.0629698,2009,114,Loneta Ave.,114 Loneta Ave.,114 Loneta Ave.,Lexington,KY,street_address,ROOFTOP
+-84.507304,38.067296,2009,761,Florence Avenue,761 Florence Avenue,761 Florence Avenue,Lexington,KY,street_address,ROOFTOP
+-84.483065,38.051538,2009,606,Maple Ave.,606 Maple Ave.,606 Maple Ave.,Lexington,KY,street_address,ROOFTOP
+-84.512992,38.082858,2010,2104,Polk Lane,2104 Polk Lane,2104 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.503953,38.063804,2010,446,Ash,446 Ash,446 Ash,Lexington,KY,street_address,ROOFTOP
+-84.5141,38.083378,2010,2065,Polk Lane,2065 Polk Lane,2065 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.5049756,38.0719317,2010,508,Rain Garden Way,508 Rain Garden Way,508 Rain Garden Way,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.520224,38.04716,2010,1244,Embry Ave.,1244 Embry Ave.,1244 Embry Ave.,Lexington,KY,street_address,ROOFTOP
+-84.5045471,38.0720687,2010,501,Rain Garden Way,501 Rain Garden Way,501 Rain Garden Way,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.5048701,38.0719579,2010,520,Rain Garden Way,520 Rain Garden Way,520 Rain Garden Way,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.482862,38.0549589,2010,132,Eddie St.,132 Eddie St.,132 Eddie St.,Lexington,KY,street_address,ROOFTOP
+-84.475058,38.059737,2010,154,Carlisle Avenue,154 Carlisle Avenue,154 Carlisle Avenue,Lexington,KY,street_address,ROOFTOP
+-84.505754,38.062987,2010,938,Charles Ave.,938 Charles Ave.,938 Charles Ave.,Lexington,KY,street_address,ROOFTOP
+-84.5046563,38.0720415,2010,513,Rain Garden Way,513 Rain Garden Way,513 Rain Garden Way,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.503734,38.06387,2010,454,Ash St.,454 Ash St.,454 Ash St.,Lexington,KY,street_address,ROOFTOP
+-84.514193,38.083093,2010,2073,Polk Lane,2073 Polk Lane,2073 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.504608,38.066369,2010,459,Douglas Avenue,459 Douglas Avenue,459 Douglas Avenue,Lexington,KY,street_address,ROOFTOP
+-84.486495,38.042876,2010,213,Warnock Street,213 Warnock Street,213 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.5049939,38.0718114,2010,910,Georgetown Street,910 Georgetown Street,910 Georgetown Street,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.470436,38.044275,2010,901,Highland Drive,901 Highland Drive,901 Highland Drive,Lexington,KY,street_address,ROOFTOP
+-84.4581316,38.0413769,2010,110,Ashton Drive,110 Ashton Drive,110 Ashton Drive,Lexington,KY,street_address,ROOFTOP
+-84.513996,38.08364,2011,2057,Polk Lane,2057 Polk Lane,2057 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.481527,38.051389,2011,650,Elm Tree Lane,650 Elm Tree Lane,650 Elm Tree Lane,Lexington,KY,street_address,ROOFTOP
+-84.510913,38.084823,2011,1620,Konner Woods,1620 Konner Woods,1620 Konner Woods,Lexington,KY,street_address,ROOFTOP
+-84.488059,38.045068,2011,344,E. Third Street,344 E. Third Street,344 E. Third Street,Lexington,KY,street_address,ROOFTOP
+-84.488059,38.045068,2011,344,E. Third Street,344 E. Third Street,344 E. Third Street,Lexington,KY,street_address,ROOFTOP
+-84.514115,38.082783,2011,2081,Polk Lane,2081 Polk Lane,2081 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.513855,38.082541,2011,2089,Polk Lane,2089 Polk Lane,2089 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.479301,38.049204,2011,438,Breckenridge Street,438 Breckenridge Street,438 Breckenridge Street,Lexington,KY,street_address,ROOFTOP
+-84.4650252,38.0636409,2011,1632,Connor Woods Drive,1632 Connor Woods Drive,1632 Connor Woods Drive,Lexington,KY,route,GEOMETRIC_CENTER
+-84.5110009,38.085204,2011,1632,Konner Woods,1632 Konner Woods,1632 Konner Woods,Lexington,KY,street_address,ROOFTOP
+-84.476709,38.059184,2011,139,Arceme Ave,139 Arceme Ave,139 Arceme Ave,Lexington,KY,street_address,ROOFTOP
+-84.476709,38.059184,2011,139,Arceme,139 Arceme,139 Arceme,Lexington,KY,street_address,ROOFTOP
+-84.5048701,38.0719579,2011,520,Rain Garden Way,520 Rain Garden Way,520 Rain Garden Way,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.474134,38.058335,2011,221,Devonia Avenue,221 Devonia Avenue,221 Devonia Avenue,Lexington,KY,street_address,ROOFTOP
+-84.510811,38.084586,2011,1612,Konner Woods,1612 Konner Woods,1612 Konner Woods,Lexington,KY,street_address,ROOFTOP
+-84.510754,38.084471,2011,1608,Konner Woods,1608 Konner Woods,1608 Konner Woods,Lexington,KY,street_address,ROOFTOP
+-84.507262,38.065672,2011,745,Breathitt Avenue,745 Breathitt Avenue,745 Breathitt Avenue,Lexington,KY,street_address,ROOFTOP
+-84.477345,38.050127,2011,713,Shropshire,713 Shropshire,713 Shropshire,Lexington,KY,street_address,ROOFTOP
+-84.512992,38.082858,2011,2104,Polk Lane,2104 Polk Lane,2104 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.468648,38.058013,2011,412,Shawnee Avenue,412 Shawnee Avenue,412 Shawnee Avenue,Lexington,KY,street_address,ROOFTOP
+-84.538214,38.053178,2012,201,Savoy,201 Savoy,201 Savoy,Lexington,KY,street_address,ROOFTOP
+-84.445535,38.012527,2012,2581,Cashel Court,2581 Cashel Court,2581 Cashel Court,Lexington,KY,street_address,ROOFTOP
+-84.4486359,38.016156,2012,2486,Plumtree,2486 Plumtree,2486 Plumtree,Lexington,KY,street_address,ROOFTOP
+-84.478487,38.04932,2012,453,Breckenridge,453 Breckenridge,453 Breckenridge,Lexington,KY,street_address,ROOFTOP
+-84.475292,38.046996,2012,629,Breckenridge,629 Breckenridge,629 Breckenridge,Lexington,KY,street_address,ROOFTOP
+-84.47477,38.0878299,2012,1720,Gerald Drive,1720 Gerald Drive,1720 Gerald Drive,Lexington,KY,street_address,ROOFTOP
+-84.537164,38.053851,2012,224,Savoy,224 Savoy,224 Savoy,Lexington,KY,street_address,ROOFTOP
+-84.502583,38.059557,2012,721,Whitney Ave.,721 Whitney Ave.,721 Whitney Ave.,Lexington,KY,street_address,ROOFTOP
+-84.508041,38.066883,2012,785,Breathitt Avenue,785 Breathitt Avenue,785 Breathitt Avenue,Lexington,KY,street_address,ROOFTOP
+-84.474134,38.058335,2012,221,Devonia Avenue,221 Devonia Avenue,221 Devonia Avenue,Lexington,KY,street_address,ROOFTOP
+-84.502264,38.061672,2012,425,Oak St.,425 Oak St.,425 Oak St.,Lexington,KY,street_address,ROOFTOP
+-84.475949,38.046599,2012,626,Breckenridge,626 Breckenridge,626 Breckenridge,Lexington,KY,street_address,ROOFTOP
+-84.481337,38.051017,2012,631,Ohio Street,631 Ohio Street,631 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.5117521,38.051149,2012,967,Valley Avenue,967 Valley Avenue,967 Valley Avenue,Lexington,KY,street_address,ROOFTOP
+-84.5116929,38.051021,2012,965,Valley Avenue,965 Valley Avenue,965 Valley Avenue,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.5038749,38.063834,2012,450,Ash Street,450 Ash Street,450 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.4870551,38.0467672,2012,349,Ohio Street,349 Ohio Street,349 Ohio Street,Lexington,KY,street_address,ROOFTOP
+-84.511472,38.052403,2013,233,Willard Street,233 Willard Street,233 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.508159,38.066359,2013,742,Chiles Avenue,742 Chiles Avenue,742 Chiles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.4868504,38.0473434,2013,274,East Fourth Street,274 East Fourth Street,274 East Fourth Street,Lexington,KY,street_address,ROOFTOP
+-84.4754457,38.046754,2013,631,Breckenridge Street,631 Breckenridge Street,631 Breckenridge Street,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.488589,38.0444389,2013,359,East Second Street,359 East Second Street,359 East Second Street,Lexington,KY,street_address,ROOFTOP
+-84.486495,38.042876,2013,213,Warnock Street,213 Warnock Street,213 Warnock Street,Lexington,KY,street_address,ROOFTOP
+-84.482569,38.090639,2013,1867,Balfour Drive,1867 Balfour Drive,1867 Balfour Drive,Lexington,KY,street_address,ROOFTOP
+-84.492518,38.0585359,2013,557,Smith Street,557 Smith Street,557 Smith Street,Lexington,KY,street_address,ROOFTOP
+-84.485809,38.0478049,2013,425,Ohio St,425 Ohio St,425 Ohio St,Lexington,KY,street_address,ROOFTOP
+-84.504793,38.062207,2013,862,Charles Avenue,862 Charles Avenue,862 Charles Avenue,Lexington,KY,street_address,ROOFTOP
+-84.507785,38.068316,2013,424,Price Road,424 Price Road,424 Price Road,Lexington,KY,street_address,ROOFTOP
+-84.504326,38.064727,2013,440,Glen Arvin Ave,440 Glen Arvin Ave,440 Glen Arvin Ave,Lexington,KY,street_address,ROOFTOP
+-84.511405,38.052496,2013,231,Willard Street,231 Willard Street,231 Willard Street,Lexington,KY,street_address,ROOFTOP
+-84.504388,38.064196,2013,443,Ash Street,443 Ash Street,443 Ash Street,Lexington,KY,street_address,ROOFTOP
+-84.487998,38.0444389,2013,215,Eastern Avenue,215 Eastern Avenue,215 Eastern Avenue,Lexington,KY,street_address,ROOFTOP
+-84.4556778,38.0395338,2013,111,Forston Ave,111 Forston Ave,111 Forston Ave,Lexington,KY,street_address,RANGE_INTERPOLATED
+-84.470893,38.084032,2014,1861,Millbank Road,1861 Millbank Road,1861 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.469495,38.083709,2014,1816,Millbank Road,1816 Millbank Road,1816 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.481254,38.080337,2014,1511,Van Buren Road,1511 Van Buren Road,1511 Van Buren Road,Lexington,KY,street_address,ROOFTOP
+-84.479429,38.054105,2014,766,Maple Avenue,766 Maple Avenue,766 Maple Avenue,Lexington,KY,street_address,ROOFTOP
+-84.473843,38.084137,2014,1676,McCullough Drive,1676 McCullough Drive,1676 McCullough Drive,Lexington,KY,street_address,ROOFTOP
+-84.479538,38.054031,2014,764,Maple Ave.,764 Maple Ave.,764 Maple Ave.,Lexington,KY,street_address,ROOFTOP
+-84.479651,38.057635,2014,120,Glenn Place,120 Glenn Place,120 Glenn Place,Lexington,KY,street_address,ROOFTOP
+-84.462789,38.061182,2014,1699,Bryan Station Road,1699 Bryan Station Road,1699 Bryan Station Road,Lexington,KY,street_address,ROOFTOP
+-84.4695748,38.0835968,2014,1812,Millbank Road,1812 Millbank Road,1812 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.472486,38.084662,2014,1909,Millbank Road,1909 Millbank Road,1909 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.4738519,38.08447,2014,1692,McCullough Drive,1692 McCullough Drive,1692 McCullough Drive,Lexington,KY,street_address,ROOFTOP
+-84.472789,38.084648,2014,1933,Millbank Road,1933 Millbank Road,1933 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.471784,38.082492,2014,1741,Elverton Road,1741 Elverton Road,1741 Elverton Road,Lexington,KY,street_address,ROOFTOP
+-84.4700116,38.0828295,2014,1792,Millbank Road,1792 Millbank Road,1792 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.472656,38.083728,2014,784,Burgess Avenue,784 Burgess Avenue,784 Burgess Avenue,Lexington,KY,street_address,ROOFTOP
+-84.473165,38.083337,2015,1680,Millbank Road,1680 Millbank Road,1680 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.470889,38.082893,2015,1757,Millbank Road,1757 Millbank Road,1757 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.471576,38.083128,2015,1737,Millbank Road,1737 Millbank Road,1737 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.4598111,38.082882,2015,600,Lisa Court,600 Lisa Court,600 Lisa Court,Lexington,KY,street_address,ROOFTOP
+-84.514115,38.082783,2015,2081,Polk Lane,2081 Polk Lane,2081 Polk Lane,Lexington,KY,street_address,ROOFTOP
+-84.473673,38.084973,2015,1956,Millbank Road,1956 Millbank Road,1956 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.4697515,38.0832587,2015,1800,Millbank Road,1800 Millbank Road,1800 Millbank Road,Lexington,KY,street_address,ROOFTOP
+-84.471259,38.082279,2015,1740,Elverton Road,1740 Elverton Road,1740 Elverton Road,Lexington,KY,street_address,ROOFTOP
+-84.47279,38.084227,2015,789,Burgess Avenue,789 Burgess Avenue,789 Burgess Avenue,Lexington,KY,street_address,ROOFTOP
+-84.473545,38.084045,2015,809,Burgess Avenue,809 Burgess Avenue,809 Burgess Avenue,Lexington,KY,street_address,ROOFTOP
