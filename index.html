@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=utf-8 />
+    <title>Habitat for Humanity</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: black;
+            font-family: Lato, sans-serif;
+            color: '#4C4C33';
+        }
+        header {
+            padding: 6px 10%;
+        }
+        h1 {
+            position: absolute;
+            z-index: 100;
+            top: 10px;
+            left: 60px;
+            padding: 8px 15px;
+            margin: 0;
+            color: whitesmoke;
+            font-size: 1.3em;
+            background: rgba(25,25,25,0.8);
+            border-radius: 0; 
+            font-weight: normal;
+        }
+        .leaflet-popup-content-wrapper {
+            opacity: 0.9;
+            border-radius: 5px;
+        }
+/*
+        p.small {
+            color: #A0A0A0;
+            font-size: 0.75em;
+            margin: 0;
+        }
+*/
+        #map {            
+            position: absolute;
+            width: 100%;
+            top: 0;
+            bottom: 0;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <header>
+
+        <h1>Habitat for Humanity Homes DRAFT</h1>
+        
+    </header>
+
+    <div id='map'></div>
+    
+    </div>
+    
+
+    <script src = "HabitatAddresses.js"></script>
+    
+    
+    <script>
+        var map = L.map('map', {
+            center: [38.055,-84.483],
+            zoom: 14,
+            minZoom: 10,
+            maxZoom: 17,
+            zoomControl: true,
+            dragging: true,
+        });
+               
+ 
+    var tiles = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
+	maxZoom: 18,
+	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
+        
+     
+    map.addLayer(tiles);      
+        
+       
+    var habitatData = L.geoJson(address, {
+        pointToLayer: function (feature, latlng) {
+            return L.circleMarker (latlng, {
+                    width: 0.5,
+                    fillOpacity: 0.8
+            });
+        },
+        onEachFeature: function(feature, layer) {            
+//          console.log(layer.feature.properties["Year"]);        
+            var year = layer.feature.properties["Year"];
+        
+            if(year == "1989") {
+                layer.setStyle({
+                    color: "red"
+                });
+            }
+            if(year == "1990") {
+                layer.setStyle({
+                    color: "orange"
+                });
+            }
+            if(year == "1991") {
+                layer.setStyle ({
+                    color: "green"
+                });
+            }
+            if(year == "1992") {
+                layer.setStyle ({   
+                color: '#008066'
+                });
+            }
+            if(year == "1993") {
+                layer.setStyle ({
+                    color: '#FF0066'
+                });
+            }
+            if(year == "1994") {
+                layer.setStyle ({
+                    color: '#3D003D'
+                });
+            }
+            if(year == "1995") {
+                layer.setStyle ({
+                    color: '#4C4C33'
+                });
+            }
+            if(year == "1995") {
+                layer.setStyle ({
+                    color: '#FFFF00'
+                });
+            }
+            if(year == "1996") {
+                layer.setStyle ({
+                    color: '#0A1F0A'
+                });
+            }
+            if(year == "1997") {
+                layer.setStyle ({
+                    color: '#001429'
+                });
+            }
+            if(year == "1998") {
+                layer.setStyle ({
+                    color: '#B82E00'
+                });
+            }
+            if(year == "1999") {
+                layer.setStyle ({
+                    color: '#996633'
+                });
+            }
+            if(year == "2000") {
+                layer.setStyle ({
+                    color: '#99003D'
+                });
+            }
+            if(year == "2001") {
+                layer.setStyle ({
+                    color: '#E68A5C'
+                });
+            }
+            if(year == "2002") {
+                layer.setStyle ({
+                    color: '#7575FF'
+                });
+            }
+            if(year == "2003") {
+                layer.setStyle ({
+                    color: '#993333'
+                });
+            }
+            if(year == "2004") {
+                layer.setStyle ({
+                    color: '#000000'
+                });
+            }
+            if(year == "2005") {
+                layer.setStyle ({
+                    color: '#996600'
+                });
+            }
+            if(year == "2006") {
+                layer.setStyle ({
+                    color: '#FF99FF'
+                });
+            }
+            if(year == "2007") {
+                layer.setStyle ({
+                    color: '#2E0F00'
+                });
+            }
+            if(year == "2008") {
+                layer.setStyle ({
+                    color: '#99FF99'
+                });
+            }
+            if(year == "2009") {
+                layer.setStyle ({
+                    color: '#333300'
+                });
+            }
+            if(year == "2010") {
+                layer.setStyle ({
+                    color: '#00FF00'
+                });
+            }
+            if(year == "2011") {
+                layer.setStyle ({
+                    color: '#FF9933'
+                });
+            }
+            if(year == "2012") {
+                layer.setStyle ({
+                    color: '#4775D1'
+                });
+            }
+            if(year == "2013") {
+                layer.setStyle ({
+                    color: '#1A001A'
+                });
+            }
+            if(year == "2014") {
+                layer.setStyle ({
+                    color: '#803300'
+                });
+            }
+            if(year == "2015") {
+                layer.setStyle ({
+                    color: '#194719'
+                });
+            }
+                
+            var props = layer.feature.properties;
+            
+            layer.bindPopup("<b>"+props.ADDRESS+"</b>"+"<br>"+"Year: "+props.Year);
+                
+        }
+    }).addTo(map);
+        
+       
+        
+        
+        
+       
+    </script>
+    
+</body>
+
+</html>
