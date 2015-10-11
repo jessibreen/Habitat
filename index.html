@@ -6,12 +6,11 @@
     <title>Habitat for Humanity</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 
-    <!-- <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script> -->
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
-    <script src="http://maps.stamen.com/js/tile.stamen.js"></script> 
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" /> -->
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
-   <!-- <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'> -->
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 
     <style>
         body {
@@ -54,37 +53,22 @@
             top: 0;
             bottom: 0;
         }
-               .legend {
-            line-height: 18px;
-            color: #555;
-        }
         
-        .legend i {
-            width: 18px;
-            height: 18px;
-            float: left;
-            margin-right: 8px;
-            opacity: 0.7;
-        } 
-        
-        .legend .circle {
-            border-radius: 50%;
-            width: 10px;
-            height: 10px;
-            margin-top: 8px;
-        }
-      
     </style>
 </head>
+
 <body>
     <header>
-        <h1>Habitat for Humanity Homes</h1>
+
+        <h1>Habitat for Humanity Homes DRAFT</h1>
         
     </header>
+
     <div id='map'></div>
     
     </div>
     
+
     <script src = "HabitatAddresses.js"></script>
     
     
@@ -102,13 +86,13 @@
     var layer =new L.StamenTileLayer("toner-lite");
         
      
-    map.addLayer(layer);      
+    map.addLayer(layer);     
         
        
     var habitatData = L.geoJson(address, {
         pointToLayer: function (feature, latlng) {
             return L.circleMarker (latlng, {
-                    width: 0.2,
+                    width: 0.5,
                     fillOpacity: 0.8
             });
         },
@@ -269,20 +253,13 @@
         }
     }).addTo(map);
         
-var Legend = L.Control.extend({  
-  options: {
-    position: 'bottomright'
-  },
-  onAdd: function (map) {
-    var legend = L.DomUtil.create('div', 'map-legend', L.DomUtil.get('map'));
-    // here we can fill the legend with colors, strings and whatever
-    return legend;
-  }
-});
-map.addControl(new Legend());
+       
         
+        
+        
+       
     </script>
     
 </body>
-</html>
 
+</html>
