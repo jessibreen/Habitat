@@ -6,12 +6,12 @@
     <title>Habitat for Humanity</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 
-    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script> -->
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
     <script src="http://maps.stamen.com/js/tile.stamen.js"></script> 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" />
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" /> -->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+   <!-- <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'> -->
 
     <style>
         body {
@@ -55,7 +55,7 @@
             bottom: 0;
         }
         
-        .legend {
+/*        .legend {
             line-height: 18px;
             color: #555;
         }
@@ -74,7 +74,7 @@
             height: 10px;
             margin-top: 8px;
         }
-        
+  /*      
     </style>
 </head>
 
@@ -274,7 +274,22 @@
         }
     }).addTo(map);
         
-         
+var Legend = L.Control.extend({  
+  options: {
+    position: 'bottomright'
+  },
+
+  onAdd: function (map) {
+    var legend = L.DomUtil.create('div', 'map-legend', L.DomUtil.get('map'));
+
+    // here we can fill the legend with colors, strings and whatever
+
+    return legend;
+  }
+});
+
+map.addControl(new Legend());
+        
     </script>
     
 </body>
